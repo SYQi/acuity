@@ -78,6 +78,46 @@ export function computeSurgeonCaseTrend(surgeon: SurgeonName): CaseCountTrendPoi
   return points;
 }
 
+/** Case-count selector: either panel surgeon, or both combined. */
+export type CaseCountSelection = SurgeonName | "Combined";
+
+export function computeCaseCountTrend(selection: CaseCountSelection): CaseCountTrendPoint[] {
+  if (selection !== "Combined") return computeSurgeonCaseTrend(selection);
+
+  const months = listHistoricalMonths();
+  const byMonth = new Map<string, { cataract: number; combined: number }>();
+  for (const p of historicalMonthlyPoints) {
+    const existing = byMonth.get(p.surgicalMonth) ?? { cataract: 0, combined: 0 };
+    existing.cataract += p.cataract;
+    existing.combined += p.combined;
+    byMonth.set(p.surgicalMonth, existing);
+  }
+
+  let runningCataract = 0;
+  let runningCombined = 0;
+  const points: CaseCountTrendPoint[] = [];
+
+  for (const surgicalMonth of months) {
+    const row = byMonth.get(surgicalMonth);
+    const cataract = row?.cataract ?? 0;
+    const combined = row?.combined ?? 0;
+    runningCataract += cataract;
+    runningCombined += combined;
+    points.push({
+      surgicalMonth,
+      monthLabel: formatSurgicalMonthLabel(surgicalMonth),
+      cataract,
+      combined,
+      total: cataract + combined,
+      runningCataract,
+      runningCombined,
+      runningTotal: runningCataract + runningCombined,
+    });
+  }
+
+  return points;
+}
+
 export function surgeonCaseTotals(surgeon: SurgeonName): {
   cataract: number;
   combined: number;
@@ -87,4 +127,19 @@ export function surgeonCaseTotals(surgeon: SurgeonName): {
   const cataract = rows.reduce((s, r) => s + r.cataract, 0);
   const combined = rows.reduce((s, r) => s + r.combined, 0);
   return { cataract, combined, total: cataract + combined };
+}
+
+export function caseCountTotals(selection: CaseCountSelection): {
+  cataract: number;
+  combined: number;
+  total: number;
+} {
+  if (selection !== "Combined") return surgeonCaseTotals(selection);
+  const cataract = historicalMonthlyPoints.reduce((s, r) => s + r.cataract, 0);
+  const combined = historicalMonthlyPoints.reduce((s, r) => s + r.combined, 0);
+  return { cataract, combined, total: cataract + combined };
+}
+
+export function caseCountDisplayName(selection: CaseCountSelection): string {
+  return selection === "Combined" ? "Combined" : selection;
 }

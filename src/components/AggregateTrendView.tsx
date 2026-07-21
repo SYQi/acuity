@@ -104,7 +104,7 @@ export function AggregateTrendView() {
   return (
     <div className="space-y-6">
       <header className="border-b border-slate-200 pb-6">
-        <p className="text-sm font-medium uppercase tracking-wide text-aia-red">AIA · WH cataract outcomes</p>
+        <p className="text-sm font-medium uppercase tracking-wide text-aia-red">AIA · Cataract outcomes</p>
         <h1 className="mt-2 text-2xl font-semibold text-aia-navy">Aggregate quality trend</h1>
         <p className="mt-2 max-w-3xl text-sm text-slate-600">
           Real clinical outcomes (Jun 2025 – Mar 2026). Monthly quality indicator for the selected risk group,

@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Acuity — Cataract Outcomes Dashboard",
   description:
-    "Acuity: cataract outcomes dashboard for AIA — Dr Roy Tan and Dr Soh Yu Qiang, Woodlands Hospital.",
+    "Acuity: cataract outcomes dashboard for AIA — Dr Roy Tan and Dr Soh Yu Qiang.",
 };
 
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {

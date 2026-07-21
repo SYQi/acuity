@@ -81,7 +81,7 @@ export function MonthlyBreakdownView() {
   return (
     <div className="space-y-6">
       <header className="border-b border-slate-200 pb-6">
-        <p className="text-sm font-medium uppercase tracking-wide text-aia-red">AIA · WH cataract outcomes</p>
+        <p className="text-sm font-medium uppercase tracking-wide text-aia-red">AIA · Cataract outcomes</p>
         <h1 className="mt-2 text-2xl font-semibold text-aia-navy">Monthly breakdown</h1>
         <p className="mt-2 max-w-4xl text-sm text-slate-600">
           Clinical outcomes for Dr Roy Tan and Dr Soh Yu Qiang by surgical month (Jun 2025 – Mar 2026).

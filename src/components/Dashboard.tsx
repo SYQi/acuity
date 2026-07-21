@@ -13,7 +13,7 @@ const NAV: { id: AppView; label: string; description: string }[] = [
   {
     id: "cases",
     label: "Case Count",
-    description: "Historical cataract vs combined volume by surgeon",
+    description: "Surgical Volume – Cataract Surgery",
   },
 ];
 
@@ -82,7 +82,7 @@ export function Dashboard() {
         <main className="mx-auto max-w-[1400px] px-4 py-6 sm:px-6 lg:px-8 lg:py-8">
           <header className="mb-6 rounded-2xl border border-slate-200/80 bg-white/85 px-5 py-4 shadow-sm backdrop-blur-xl">
             <p className="text-xs font-semibold uppercase tracking-[0.16em] text-aia-red">
-              AIA · WH Dashboard
+              AIA Dashboard
             </p>
             <div className="mt-1 flex flex-wrap items-center justify-between gap-3">
               <div>
@@ -100,7 +100,7 @@ export function Dashboard() {
           {activeView === "cases" && <CaseCountView />}
 
           <footer className="mt-10 border-t border-slate-200/80 pt-5 text-center text-xs text-slate-500">
-            Acuity · Cataract Clinical Outcomes for AIA · Woodlands Hospital · {new Date().getFullYear()}
+            Acuity · Cataract Clinical Outcomes for AIA · {new Date().getFullYear()}
           </footer>
         </main>
       </div>
