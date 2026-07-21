@@ -86,12 +86,14 @@ export function CaseCountView() {
         <h2 className="mb-4 text-lg font-semibold text-aia-navy">
           Total Surgical Volume ({displayName})
         </h2>
-        <div className="grid gap-4 sm:grid-cols-3">
+        <div className={`grid gap-4 ${totals.combined > 0 ? "sm:grid-cols-3" : "sm:grid-cols-2"}`}>
           <MetricCard label="Cataract surgery" value={formatNumber(totals.cataract)} />
-          <MetricCard
-            label="Combined Cataract Surgery and Vitrectomy"
-            value={formatNumber(totals.combined)}
-          />
+          {totals.combined > 0 && (
+            <MetricCard
+              label="Combined Cataract Surgery and Vitrectomy"
+              value={formatNumber(totals.combined)}
+            />
+          )}
           <MetricCard label="All procedures" value={formatNumber(totals.total)} />
         </div>
       </section>
