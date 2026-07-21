@@ -1,0 +1,1757 @@
+{
+  "source": "YQ Roy Combined Historical Logbook_edYQ 220726.xlsx",
+  "fromMonth": "1304",
+  "toMonth": "2607",
+  "notes": [
+    "Month codes are YYMM (e.g. 1605 = May 2016).",
+    "If VR=1 (with or without Cataract=1) \u2192 Combined Cataract Surgery and Vitrectomy.",
+    "If Cataract=1 and VR\u22601 \u2192 Cataract surgery.",
+    "Surgeon_1YQ_2Roy: 1=Dr Soh Yu Qiang, 2=Dr Roy Tan.",
+    "8 rows had neither VR nor Cataract flag and were excluded."
+  ],
+  "monthly": [
+    {
+      "surgicalMonth": "1304",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1305",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1306",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1501",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1502",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1503",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1503",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "1504",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1505",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1505",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1506",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1506",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1507",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1507",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 12,
+      "combined": 0,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "1508",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "1509",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1509",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1510",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1510",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "1511",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1511",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1512",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1512",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1601",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1601",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1602",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1602",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1603",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1603",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1604",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "1604",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1605",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "1605",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1606",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1606",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1607",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1607",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1608",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1608",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1609",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1609",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1610",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1610",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1611",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1611",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "1612",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1612",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1701",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1701",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1702",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1702",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1703",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 20,
+      "combined": 0,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "1703",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1704",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 27,
+      "combined": 0,
+      "total": 27
+    },
+    {
+      "surgicalMonth": "1704",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1705",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 22,
+      "combined": 0,
+      "total": 22
+    },
+    {
+      "surgicalMonth": "1706",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 12,
+      "combined": 0,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "1707",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 22,
+      "combined": 0,
+      "total": 22
+    },
+    {
+      "surgicalMonth": "1708",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 29,
+      "combined": 0,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "1708",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1709",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 22,
+      "combined": 0,
+      "total": 22
+    },
+    {
+      "surgicalMonth": "1709",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1710",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 18,
+      "combined": 0,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "1710",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1711",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1711",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1712",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "1712",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1801",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1801",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1802",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1802",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1803",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 19,
+      "combined": 0,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "1803",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 14,
+      "combined": 0,
+      "total": 14
+    },
+    {
+      "surgicalMonth": "1804",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1804",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "1805",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "1805",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "1806",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 13,
+      "combined": 0,
+      "total": 13
+    },
+    {
+      "surgicalMonth": "1806",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 18,
+      "combined": 0,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "1807",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1807",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1808",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "1808",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1809",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "1809",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1810",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "1810",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "1811",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 21,
+      "combined": 0,
+      "total": 21
+    },
+    {
+      "surgicalMonth": "1811",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "1812",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 29,
+      "combined": 0,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "1812",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1901",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 14,
+      "combined": 0,
+      "total": 14
+    },
+    {
+      "surgicalMonth": "1901",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1902",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1903",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 19,
+      "combined": 0,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "1903",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 11,
+      "combined": 0,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "1904",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 24,
+      "combined": 0,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "1904",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 15,
+      "combined": 0,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "1905",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 20,
+      "combined": 0,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "1905",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 0,
+      "total": 16
+    },
+    {
+      "surgicalMonth": "1906",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 18,
+      "combined": 0,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "1906",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 17,
+      "combined": 0,
+      "total": 17
+    },
+    {
+      "surgicalMonth": "1907",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 23,
+      "combined": 0,
+      "total": 23
+    },
+    {
+      "surgicalMonth": "1907",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 23,
+      "combined": 0,
+      "total": 23
+    },
+    {
+      "surgicalMonth": "1908",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 10,
+      "combined": 0,
+      "total": 10
+    },
+    {
+      "surgicalMonth": "1908",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 0,
+      "total": 16
+    },
+    {
+      "surgicalMonth": "1909",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 16,
+      "combined": 0,
+      "total": 16
+    },
+    {
+      "surgicalMonth": "1909",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 22,
+      "combined": 0,
+      "total": 22
+    },
+    {
+      "surgicalMonth": "1910",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 30,
+      "combined": 0,
+      "total": 30
+    },
+    {
+      "surgicalMonth": "1910",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 26,
+      "combined": 0,
+      "total": 26
+    },
+    {
+      "surgicalMonth": "1911",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 24,
+      "combined": 0,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "1911",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 24,
+      "combined": 0,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "1912",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 24,
+      "combined": 0,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "1912",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 12,
+      "combined": 0,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2001",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2001",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 4,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "2002",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2002",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 21,
+      "total": 37
+    },
+    {
+      "surgicalMonth": "2003",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2004",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2007",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "2007",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 5,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2008",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 13,
+      "combined": 0,
+      "total": 13
+    },
+    {
+      "surgicalMonth": "2008",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 15,
+      "combined": 14,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "2009",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 23,
+      "combined": 0,
+      "total": 23
+    },
+    {
+      "surgicalMonth": "2009",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 30,
+      "combined": 11,
+      "total": 41
+    },
+    {
+      "surgicalMonth": "2010",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 29,
+      "combined": 0,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "2010",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 21,
+      "combined": 13,
+      "total": 34
+    },
+    {
+      "surgicalMonth": "2011",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 15,
+      "combined": 0,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "2011",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 30,
+      "combined": 10,
+      "total": 40
+    },
+    {
+      "surgicalMonth": "2012",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 21,
+      "combined": 0,
+      "total": 21
+    },
+    {
+      "surgicalMonth": "2012",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 7,
+      "combined": 12,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "2101",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 18,
+      "combined": 0,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "2101",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 11,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "2102",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 24,
+      "combined": 0,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "2102",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 21,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "2103",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 23,
+      "total": 28
+    },
+    {
+      "surgicalMonth": "2104",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2104",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 1,
+      "combined": 8,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2105",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2105",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 24,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "2106",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 2,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "2107",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 27,
+      "total": 30
+    },
+    {
+      "surgicalMonth": "2108",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 42,
+      "total": 42
+    },
+    {
+      "surgicalMonth": "2109",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 63,
+      "total": 63
+    },
+    {
+      "surgicalMonth": "2110",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 12,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2111",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 20,
+      "total": 22
+    },
+    {
+      "surgicalMonth": "2112",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 6,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "2201",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 7,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2202",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 7,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2204",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 12,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2205",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 18,
+      "total": 26
+    },
+    {
+      "surgicalMonth": "2206",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2206",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 2,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2207",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "2207",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 1,
+      "combined": 7,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "2208",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2208",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 8,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "2209",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2209",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 2,
+      "combined": 10,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2210",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2210",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 8,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2211",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "2211",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 12,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "2212",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2212",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 3,
+      "combined": 15,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "2301",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2301",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 6,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "2302",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 12,
+      "combined": 0,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2302",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 13,
+      "combined": 11,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "2303",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2303",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 15,
+      "total": 21
+    },
+    {
+      "surgicalMonth": "2304",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2304",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 7,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "2305",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 11,
+      "combined": 0,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "2305",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 21,
+      "combined": 11,
+      "total": 32
+    },
+    {
+      "surgicalMonth": "2306",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 6,
+      "combined": 0,
+      "total": 6
+    },
+    {
+      "surgicalMonth": "2306",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 12,
+      "combined": 8,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "2307",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 14,
+      "combined": 0,
+      "total": 14
+    },
+    {
+      "surgicalMonth": "2307",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 11,
+      "combined": 8,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "2308",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 11,
+      "combined": 0,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "2308",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 13,
+      "combined": 6,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "2309",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 11,
+      "combined": 0,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "2309",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 8,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "2310",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2310",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 15,
+      "combined": 16,
+      "total": 31
+    },
+    {
+      "surgicalMonth": "2311",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 17,
+      "combined": 11,
+      "total": 28
+    },
+    {
+      "surgicalMonth": "2312",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2312",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 10,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "2401",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "2401",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 12,
+      "combined": 17,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "2402",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2402",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 13,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "2403",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2403",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 4,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "2404",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 7,
+      "combined": 0,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2404",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 1,
+      "combined": 6,
+      "total": 7
+    },
+    {
+      "surgicalMonth": "2405",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 9,
+      "total": 13
+    },
+    {
+      "surgicalMonth": "2406",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2406",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 4,
+      "combined": 5,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2407",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2407",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 5,
+      "combined": 12,
+      "total": 17
+    },
+    {
+      "surgicalMonth": "2408",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2408",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 14,
+      "combined": 12,
+      "total": 26
+    },
+    {
+      "surgicalMonth": "2409",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 23,
+      "combined": 5,
+      "total": 28
+    },
+    {
+      "surgicalMonth": "2410",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2410",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 24,
+      "combined": 6,
+      "total": 30
+    },
+    {
+      "surgicalMonth": "2411",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2411",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 22,
+      "combined": 12,
+      "total": 34
+    },
+    {
+      "surgicalMonth": "2412",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2412",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 7,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "2501",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "2501",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 13,
+      "combined": 7,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "2502",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2502",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 6,
+      "combined": 5,
+      "total": 11
+    },
+    {
+      "surgicalMonth": "2503",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2503",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 16,
+      "combined": 8,
+      "total": 24
+    },
+    {
+      "surgicalMonth": "2504",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2504",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 26,
+      "combined": 6,
+      "total": 32
+    },
+    {
+      "surgicalMonth": "2505",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2505",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 13,
+      "combined": 5,
+      "total": 18
+    },
+    {
+      "surgicalMonth": "2506",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2506",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 13,
+      "combined": 16,
+      "total": 29
+    },
+    {
+      "surgicalMonth": "2507",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2507",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 26,
+      "combined": 2,
+      "total": 28
+    },
+    {
+      "surgicalMonth": "2508",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2508",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 25,
+      "combined": 5,
+      "total": 30
+    },
+    {
+      "surgicalMonth": "2509",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2509",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 17,
+      "combined": 6,
+      "total": 23
+    },
+    {
+      "surgicalMonth": "2510",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 28,
+      "combined": 6,
+      "total": 34
+    },
+    {
+      "surgicalMonth": "2511",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 2,
+      "combined": 0,
+      "total": 2
+    },
+    {
+      "surgicalMonth": "2511",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 15,
+      "combined": 6,
+      "total": 21
+    },
+    {
+      "surgicalMonth": "2512",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 8,
+      "combined": 0,
+      "total": 8
+    },
+    {
+      "surgicalMonth": "2512",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 18,
+      "combined": 5,
+      "total": 23
+    },
+    {
+      "surgicalMonth": "2601",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2601",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 7,
+      "total": 16
+    },
+    {
+      "surgicalMonth": "2602",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 4,
+      "combined": 0,
+      "total": 4
+    },
+    {
+      "surgicalMonth": "2602",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 8,
+      "combined": 4,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2603",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 9,
+      "combined": 0,
+      "total": 9
+    },
+    {
+      "surgicalMonth": "2603",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 9,
+      "combined": 6,
+      "total": 15
+    },
+    {
+      "surgicalMonth": "2604",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 12,
+      "combined": 0,
+      "total": 12
+    },
+    {
+      "surgicalMonth": "2604",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 14,
+      "combined": 5,
+      "total": 19
+    },
+    {
+      "surgicalMonth": "2605",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 5,
+      "combined": 0,
+      "total": 5
+    },
+    {
+      "surgicalMonth": "2605",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 22,
+      "combined": 9,
+      "total": 31
+    },
+    {
+      "surgicalMonth": "2606",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 1,
+      "combined": 0,
+      "total": 1
+    },
+    {
+      "surgicalMonth": "2606",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 12,
+      "combined": 8,
+      "total": 20
+    },
+    {
+      "surgicalMonth": "2607",
+      "surgeon": "Dr Roy Tan",
+      "cataract": 3,
+      "combined": 0,
+      "total": 3
+    },
+    {
+      "surgicalMonth": "2607",
+      "surgeon": "Dr Soh Yu Qiang",
+      "cataract": 0,
+      "combined": 3,
+      "total": 3
+    }
+  ]
+}
