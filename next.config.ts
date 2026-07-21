@@ -1,9 +1,15 @@
 import type { NextConfig } from "next";
 
-const distDir = process.env.NEXT_DIST_DIR?.trim() || "tmp/aia-cataract-next";
+/**
+ * Local dev sets NEXT_DIST_DIR (see package.json) to keep the build cache off
+ * iCloud Drive. On Vercel/production NEXT_DIST_DIR is unset, so we fall back to
+ * Next's default `.next` output — a custom distDir there breaks page collection
+ * (PageNotFoundError: /_document).
+ */
+const distDir = process.env.NEXT_DIST_DIR?.trim() || undefined;
 
 const nextConfig: NextConfig = {
-  distDir,
+  ...(distDir ? { distDir } : {}),
   allowedDevOrigins: ["127.0.0.1"],
   devIndicators: false,
   experimental: { devtoolSegmentExplorer: false },
