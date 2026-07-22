@@ -59,6 +59,16 @@ export type MonthlyTrendPoint = {
   domains: DomainScores;
 };
 
+export type QualityIndicatorTrendPoint = {
+  surgicalMonth: string;
+  monthLabel: string;
+  cases: number;
+  /** % with post-op month 1 VA >= 6/12 = Yes (1); undefined (9) excluded. */
+  va612Rate: number | null;
+  /** % with post-op month 1 SE within 1.0D = Yes (1); undefined (9) excluded among VA-defined patients. */
+  seWithin1DRate: number | null;
+};
+
 export type GroupSummary = {
   riskGroup: RiskGroup;
   cases: number;
@@ -218,6 +228,25 @@ export function weightedQuality(
   if (totalWeight <= 0) return null;
   const sum = entries.reduce((s, e) => s + e.score * (e.weight / totalWeight), 0);
   return Math.round(sum * 10) / 10;
+}
+
+export function computeQualityIndicatorTrend(surgeon: SurgeonName): QualityIndicatorTrendPoint[] {
+  const config: QualityConfig = {
+    vaStandard: "va-612",
+    refractiveStandard: "se-10",
+    weights: DEFAULT_WEIGHTS,
+  };
+
+  return SURGICAL_MONTHS.map((surgicalMonth) => {
+    const rows = filterRecords({ surgicalMonth, surgeon });
+    return {
+      surgicalMonth,
+      monthLabel: formatSurgicalMonthLabel(surgicalMonth),
+      cases: rows.length,
+      va612Rate: yesRate(rows, (r) => r.postOpVa612),
+      seWithin1DRate: refractiveYesRate(rows, config),
+    };
+  });
 }
 
 export function computeMonthlyTrend(

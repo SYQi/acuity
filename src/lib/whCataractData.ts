@@ -36,7 +36,7 @@ export type WhComplicationEvent = {
   complication: 1;
 };
 
-/** Reporting window shown in dashboards: Jun 2025 – Mar 2026. */
+/** Reporting window shown in dashboards: Jun 2025 – Jun 2026. */
 export const SURGICAL_MONTHS = [
   "2506",
   "2507",
@@ -48,6 +48,9 @@ export const SURGICAL_MONTHS = [
   "2601",
   "2602",
   "2603",
+  "2604",
+  "2605",
+  "2606",
 ] as const;
 
 export type SurgicalMonthCode = (typeof SURGICAL_MONTHS)[number];
